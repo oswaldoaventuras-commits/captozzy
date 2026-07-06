@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Captozzy</title>
+</head>
+<body style="font-family: Arial; background:#0b0f14; color:#fff; display:flex; justify-content:center; align-items:center; height:100vh;">
+  <div style="text-align:center;">
+    <h1>Captozzy</h1>
+    <p>UAS Tactical Systems | Aerial Operations | Speaker</p>
+  </div>
+</body>
+</html>
